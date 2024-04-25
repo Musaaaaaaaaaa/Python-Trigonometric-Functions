@@ -10,6 +10,6 @@ I used this website for my work and copied the np.linespace work and np.cos and 
 
 I used this youtube video to better understand the functions I got from the website. 
 
-https://stackoverflow.com/questions/42837910/omit-joining-lines-in-matplotlib-plot-e-g-y-tanx
+# https://stackoverflow.com/questions/42837910/omit-joining-lines-in-matplotlib-plot-e-g-y-tanx
 
 Using this website I learnt how to graph tan properly and understood it. 
